@@ -1,3 +1,11 @@
 {
-  "stories": []
+  "stories": [
+    {
+      "date": "2024-06-25",
+      "developer": "Raghu",
+      "userStory": "LBM-123",
+      "description": "Demo",
+      "status": "Dev"
+    }
+  ]
 }
