@@ -18,6 +18,13 @@
           "status": "In Progress"
         }
       ]
+    },
+    {
+      "date": "2024-06-25",
+      "developer": "Prabu",
+      "userStory": "LBM-112",
+      "description": "Development",
+      "status": "Assigned"
     }
   ]
 }
