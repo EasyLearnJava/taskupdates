@@ -15,6 +15,14 @@
       "subTask": "3",
       "description": "Dyn credit issue",
       "status": "In testing"
+    },
+    {
+      "date": "2024-06-25",
+      "developer": "Shweta",
+      "userStory": "BCG-156",
+      "subTask": "4",
+      "description": "Redesign account story",
+      "status": "Done"
     }
   ]
 }
