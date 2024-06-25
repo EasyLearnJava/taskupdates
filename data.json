@@ -31,6 +31,14 @@
       "subTask": "2",
       "description": "implement record types",
       "status": "testing"
+    },
+    {
+      "date": "2024-06-25",
+      "developer": "Prabu",
+      "userStory": "BCG-122",
+      "subTask": "1",
+      "description": "demo",
+      "status": "Dev"
     }
   ]
 }
