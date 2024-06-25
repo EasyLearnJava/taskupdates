@@ -25,6 +25,13 @@
       "userStory": "LBM-112",
       "description": "Development",
       "status": "Assigned"
+    },
+    {
+      "date": "2024-06-25",
+      "developer": "Shweta",
+      "userStory": "LBM-456",
+      "description": "Demo",
+      "status": "Done"
     }
   ]
 }
