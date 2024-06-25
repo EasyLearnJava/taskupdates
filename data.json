@@ -23,6 +23,14 @@
       "subTask": "4",
       "description": "Redesign account story",
       "status": "Done"
+    },
+    {
+      "date": "2024-06-25",
+      "developer": "Sreeni",
+      "userStory": "lbm-11",
+      "subTask": "2",
+      "description": "implement record types",
+      "status": "testing"
     }
   ]
 }
