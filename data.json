@@ -1,3 +1,12 @@
 {
-  "stories": []
+  "stories": [
+    {
+      "date": "2024-06-25",
+      "developer": "Raghu",
+      "userStory": "LBM-123",
+      "subTask": "1",
+      "description": "in progress",
+      "status": "Dev"
+    }
+  ]
 }
