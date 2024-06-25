@@ -6,7 +6,11 @@
       "userStory": "LBM-123",
       "subTask": "1",
       "description": "in progress",
-      "status": "Dev"
+      "status": "Dev",
+      "subTasks": [
+        "lbm 11",
+        "lbm 11"
+      ]
     }
   ]
 }
