@@ -1,31 +1,3 @@
 {
-  "stories": [
-    {
-      "date": "2024-06-25",
-      "developer": "Raghu",
-      "userStory": "LBM-123",
-      "subTask": "1",
-      "description": "in progress",
-      "status": "Dev",
-      "subTasks": [
-        "lbm 11",
-        "lbm 11"
-      ]
-    },
-    {
-      "date": "2024-06-25",
-      "developer": "Prabu",
-      "userStory": "LBM-22",
-      "description": "test",
-      "status": "Code review",
-      "subTasks": [
-        "1",
-        {
-          "date": "2024-06-26",
-          "description": "32",
-          "status": "In Progress"
-        }
-      ]
-    }
-  ]
+  "stories": []
 }
