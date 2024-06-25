@@ -7,6 +7,14 @@
       "subTask": "LBM-ST-1",
       "description": "Working on UI",
       "status": "Dev"
+    },
+    {
+      "date": "2024-06-24",
+      "developer": "Prabu",
+      "userStory": "BCG-22",
+      "subTask": "3",
+      "description": "Dyn credit issue",
+      "status": "In testing"
     }
   ]
 }
