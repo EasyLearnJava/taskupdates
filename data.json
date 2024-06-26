@@ -5,7 +5,7 @@
       "developer": "Raghu",
       "userStory": "LBM-123",
       "description": "Demo",
-      "status": "Assigned",
+      "status": "Dev",
       "subTasks": [
         {
           "date": "2024-06-25",
