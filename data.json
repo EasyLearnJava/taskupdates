@@ -81,6 +81,14 @@
       "userStory": "LBM-126",
       "description": "ad",
       "status": "QA"
+    },
+    {
+      "date": "2024-06-25",
+      "developer": "Prabu",
+      "userStory": "LBM-099",
+      "description": "w",
+      "status": "Assigned",
+      "storyPoints": 3
     }
   ]
 }
