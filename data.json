@@ -53,6 +53,13 @@
       "userStory": "LBM-1",
       "description": "q",
       "status": "Documentation"
+    },
+    {
+      "date": "2024-06-25",
+      "developer": "Sreeni",
+      "userStory": "LBM-654",
+      "description": "r",
+      "status": "QA"
     }
   ]
 }
