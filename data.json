@@ -46,6 +46,13 @@
       "userStory": "LBM-222",
       "description": "review",
       "status": "Code review"
+    },
+    {
+      "date": "2024-06-25",
+      "developer": "Sreeni",
+      "userStory": "LBM-1",
+      "description": "q",
+      "status": "Deployment"
     }
   ]
 }
