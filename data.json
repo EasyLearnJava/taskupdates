@@ -60,6 +60,13 @@
       "userStory": "LBM-654",
       "description": "r",
       "status": "QA"
+    },
+    {
+      "date": "2024-06-25",
+      "developer": "Muthu",
+      "userStory": "LBM-112",
+      "description": "test",
+      "status": "UAT"
     }
   ]
 }
