@@ -6,6 +6,7 @@
       "userStory": "LBM-123",
       "description": "Demo",
       "status": "Assigned",
+	  "storyPoints": 3,
       "subTasks": [
         {
           "date": "2024-06-25",
@@ -25,6 +26,7 @@
       "userStory": "LBM-112",
       "description": "Development",
       "status": "Code review",
+	  "storyPoints": 3,
       "subTasks": [
         {
           "date": "2024-06-25",
@@ -38,57 +40,56 @@
       "developer": "Shweta",
       "userStory": "LBM-456",
       "description": "Demo",
-      "status": "Deployment"
+      "status": "Deployment",
+	  "storyPoints": 3
     },
     {
       "date": "2024-06-25",
       "developer": "Raghu",
       "userStory": "LBM-222",
       "description": "review",
-      "status": "Dev"
+      "status": "Dev",
+	  "storyPoints": 3
     },
     {
       "date": "2024-06-25",
       "developer": "Sreeni",
       "userStory": "LBM-1",
       "description": "q",
-      "status": "Done"
+      "status": "Done",
+	  "storyPoints": 3
     },
     {
       "date": "2024-06-25",
       "developer": "Sreeni",
       "userStory": "LBM-654",
       "description": "r",
-      "status": "Done"
+      "status": "Done",
+	  "storyPoints": 3
     },
     {
       "date": "2024-06-25",
       "developer": "Muthu",
       "userStory": "LBM-112",
       "description": "test",
-      "status": "UAT"
+      "status": "UAT",
+	  "storyPoints": 3
     },
     {
       "date": "2024-06-25",
       "developer": "Muthu",
       "userStory": "LBM-14",
       "description": "q",
-      "status": "Done"
+      "status": "Done",
+	  "storyPoints": 3	  
     },
     {
       "date": "2024-06-25",
       "developer": "Prabu",
       "userStory": "LBM-126",
       "description": "ad",
-      "status": "QA"
-    },
-    {
-      "date": "2024-06-25",
-      "developer": "Prabu",
-      "userStory": "LBM-099",
-      "description": "w",
-      "status": "Assigned",
-      "storyPoints": 3
+      "status": "QA",
+	  "storyPoints": 3
     }
   ]
 }
